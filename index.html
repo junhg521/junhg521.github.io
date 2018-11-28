@@ -1,14 +1,4 @@
 ---
-layout: default
-title: Jun
+layout: home
+title: Home
 ---
-<div id="home">
-	<h1>Blog post</h1>
-	<ul>
-		{% for post in site.posts %}
-		<li>
-			{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-		</li>
-　　	{% endfor %}
-	</ul>
-</div>
