@@ -1,2 +1,8 @@
-theme: jekyll-theme-midnight
+title: Jun Blog
+author: JunHg
+description: 坚持本心，认真做事
+
+highlighter: null
+permalink: /:title
+
 baseurl: /junhg521.github.io
