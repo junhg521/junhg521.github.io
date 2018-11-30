@@ -6,3 +6,4 @@ highlighter: null
 permalink: /:title
 
 baseurl: /junhg521.github.io
+theme: jekyll-theme-slate
