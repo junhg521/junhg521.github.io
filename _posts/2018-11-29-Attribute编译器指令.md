@@ -1,3 +1,7 @@
+---
+layout: post
+title: __attribute__属性
+---
 # __attribute__属性
 
 `__attribute__`是一套编译器指令，被GNU和LLVM编译器所支持，允许对于`__attribute__`增加一些参数，做一些高级检查和优化。
